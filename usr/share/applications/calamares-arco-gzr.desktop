@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Install Arco-GzR
+Comment=Installer for Arco-GzR
+Categories=Utility;
+Exec=sudo -E calamares
+Icon=gzr-calamares
