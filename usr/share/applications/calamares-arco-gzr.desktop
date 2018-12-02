@@ -3,5 +3,5 @@ Type=Application
 Name=Install Arco-GzR
 Comment=Installer for Arco-GzR
 Categories=Utility;
-Exec=sudo -E calamares
-Icon=gzr-calamares
+Exec=env QT_QPA_PLATFORMTHEME=Arc sudo -E calamares
+Icon=gzr-calamares-logo
